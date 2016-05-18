@@ -1,0 +1,23 @@
+*{
+	margin:0 auto;
+}
+
+body{
+	background-color: #F0F8FF;
+	font-size:14px;
+}
+
+input{
+	padding: .2em .2em .2em .2em;
+}	
+
+label{
+	display: block;
+	margin: .5em 0 0 0;
+}
+
+fieldset{
+	padding-top:2em;
+	margin: 0 auto;
+	width:80%;
+}
